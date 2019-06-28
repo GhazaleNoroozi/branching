@@ -1,6 +1,6 @@
 
 def summation(a, b):
-    print(a+b)
+    print(2*a+b*3)
 
 
 print("hi")
