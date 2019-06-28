@@ -5,4 +5,4 @@ def summation(a, b):
 
 print("hi")
 print(summation(2, 3))
-print("this is fun")
+print("this is not fun")
